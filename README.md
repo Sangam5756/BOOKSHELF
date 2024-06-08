@@ -1,5 +1,7 @@
 # Book Search Application
 
+# Develop a React application allowing users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
+
 deployed site - <a href="https://bookshelf-k0iy.onrender.com/">Try Here</a>
 
 ## Setup Instructions
@@ -19,6 +21,16 @@ deployed site - <a href="https://bookshelf-k0iy.onrender.com/">Try Here</a>
     ```bash
     npm run dev
     ```
+
+
+# Features
+Real-time Search: Users can search for books in real-time as they type.
+<br>
+Add to Bookshelf: Users can add books to their personal bookshelf.
+<br>
+Persistent Storage: Bookshelf data is stored persistently using the Web Storage API (localStorage).
+<br>
+Two Pages: A search page and a personal bookshelf page.
 
 
 
